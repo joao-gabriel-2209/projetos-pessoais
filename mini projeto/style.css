@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+*{
+    margin: 3px;
+    padding: 0px;
+}
+
+main{
+    margin: auto;
+    color: rgba(0, 0, 255, 0.447);
+    width: 600px;
+}
+
+header{
+    border: 5px solid black;
+    width: 580px;
+    height: 120px;
+}
+
+nav{
+    border: 5px solid black;
+    width: 580px;
+    height: 60px;
+}
+
+section{
+    border: 5px solid black;
+    width: 400px;
+    height: 200px;
+
+}
+
+article{
+    border: 5px solid black;
+    width: 400px;
+    height: 200px;
+
+}
+
+div{
+    display: inline-block;
+    width: 420px;
+}
+
+span{
+    display: inline-block;
+}
+
+aside{
+    border: 5px solid black;
+    height: 400px;
+    width: 180px;
+}
